@@ -1,2 +1,5 @@
-# Java_Basic_Codes
-## Performed 10 basic codes using the programming language java
+# java-se-practice
+## Performed some basic codes using the programming language java
+## Topic
+**Array
+**Function
