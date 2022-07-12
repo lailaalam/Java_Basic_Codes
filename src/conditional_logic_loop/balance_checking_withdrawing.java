@@ -1,6 +1,6 @@
 //Write a program to check balance and withdraw money from ATM booth using if else or switch case
 
-package java_class_2;
+package conditional_logic_loop;
 
 import java.util.Scanner;
 

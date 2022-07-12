@@ -1,6 +1,6 @@
 //Write a program to print prime numbers from 2 to n
 
-package java_class_2;
+package conditional_logic_loop;
 
 import java.util.Scanner;
 

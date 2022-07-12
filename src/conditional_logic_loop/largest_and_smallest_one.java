@@ -1,6 +1,6 @@
 //Write a program to enter the numbers till the user wants and at the end, the program should display the largest and smallest numbers user entered.
 
-package java_class_2;
+package conditional_logic_loop;
 
 import java.util.Scanner;
 

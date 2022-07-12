@@ -1,6 +1,6 @@
 //Write a program to sum of user input until users input ‘q’ from keyboard
 
-package java_class_2;
+package conditional_logic_loop;
 
 import java.util.Objects;
 import java.util.Scanner;
