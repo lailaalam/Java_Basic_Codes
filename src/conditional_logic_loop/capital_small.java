@@ -1,6 +1,6 @@
 //Write a program to check if inputted letter is small or capital
 
-package java_class_2;
+package conditional_logic_loop;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //Write a program to generate 2 random numbers which will not be shown to the user. Take a user input and match it with any of the random numbers. If correct give it 1 point and if incorrect, do not give it any point. Finally, repeat this for 10 times and count the point user achieved.
 
-package java_class_2;
+package conditional_logic_loop;
 
 
 import java.util.Scanner;
